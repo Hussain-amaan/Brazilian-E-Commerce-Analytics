@@ -209,15 +209,4 @@ pip install -r requirements.txt
 - Interactive drill-through pages
 - Dynamic tooltips
 
----
 
-## 👤 Author
-
-**Hussain Amaan Ashique**
-
-- LinkedIn: https://www.linkedin.com/in/hussain-amaan-742236290
-- GitHub: https://github.com/Hussain-amaan
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
