@@ -155,15 +155,7 @@ Created interactive Power BI dashboards using DAX measures and visualizations.
 
 ---
 
-## 📸 Dashboard Preview
 
-> Add your dashboard screenshots here.
-
-### Executive Dashboard
-
-![Executive Dashboard](images/dashboard.png)
-
----
 
 ## ▶️ How to Run
 
@@ -200,13 +192,5 @@ pip install -r requirements.txt
 - Business Analytics
 
 ---
-
-## 📌 Future Improvements
-
-- Add forecasting using Power BI
-- Customer segmentation (RFM Analysis)
-- Profitability analysis
-- Interactive drill-through pages
-- Dynamic tooltips
 
 
